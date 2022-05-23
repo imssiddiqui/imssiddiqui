@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Md Salik Siddiqui
+- 👀 I’m a graduate in Electronics & Communication Engineering.
+- 🌱 I’m currently persuing backend development cohort from FunctionUp.
